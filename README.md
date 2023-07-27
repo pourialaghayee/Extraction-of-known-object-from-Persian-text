@@ -1,0 +1,1 @@
+# Extraction-of-known-object-from-Persian-text
